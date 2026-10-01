@@ -1,0 +1,7 @@
+# Mission Control - dependencies
+# Install with:  pip install -r requirements.txt
+
+requests>=2.31,<3.0     # live data: ISS, launches, NASA, NOAA, Open-Meteo
+rich>=13.7,<16.0         # terminal rendering primitives
+textual>=0.60,<9.0        # the interactive terminal UI framework
+Pillow>=10.0,<13.0          # decoding downloaded space photos for terminal art

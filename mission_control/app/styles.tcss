@@ -1,0 +1,31 @@
+Screen {
+    background: $surface;
+}
+
+#overview_root {
+    align: center top;
+    padding: 1 2;
+}
+
+#pkt_clock {
+    width: 100%;
+    content-align: center middle;
+    color: $accent;
+    text-style: bold;
+}
+
+#overview_sub {
+    width: 100%;
+    content-align: center middle;
+    margin-bottom: 1;
+}
+
+.card {
+    width: 1fr;
+    margin: 1;
+    height: auto;
+}
+
+TabPane {
+    padding: 1;
+}
