@@ -25,6 +25,16 @@
 
 ---
 
+## 🚀 Launch Time Verification
+
+<p align="center">
+  <img src="docs/screenshots/SS1.jpg" alt="NASA live stream showing the rocket launch" width="250">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/SS2.jpg" alt="NASA live stream showing the rocket launch time" width="250">
+</p>
+
+---
+
 ## What is this?
 
 **Mission Control** turns your terminal into a real space-operations dashboard.
