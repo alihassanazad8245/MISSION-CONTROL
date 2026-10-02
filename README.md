@@ -137,22 +137,12 @@ The current planetary Kp-index and NOAA's radio blackout / radiation storm /
 geomagnetic storm scales, boiled down into a plain-English aurora verdict —
 "should I actually go outside and look up tonight?"
 
-<p align="center">
-  <!-- 📸 SCREENSHOT — Space Weather tab -->
-  <img src="docs/screenshots/06-space-weather.png" alt="Space Weather tab" width="800">
-</p>
-
 ### 7. Earth Today
 
 The single most "wait, that's real?" feature: today's actual full-disc
 photograph of Earth from NASA's DSCOVR satellite, a million miles away at
 the L1 Lagrange point, downloaded and rendered in full color directly in
 your terminal.
-
-<p align="center">
-  <!-- 📸 SCREENSHOT — Earth Today tab, with the colour photo rendered -->
-  <img src="docs/screenshots/07-earth-today.png" alt="Earth Today tab" width="800">
-</p>
 
 ---
 
